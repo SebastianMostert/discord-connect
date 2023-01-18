@@ -1,0 +1,28 @@
+{
+  "name": "discord-connect",
+  "version": "1.0.0",
+  "description": "A package to connect channels and dms with eachother.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/That-Half-Dead-Skeleton/discord-connect.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Sebastian Mostert",
+    "email": "sebastianmostert663@gmail.com",
+    "url": "https://github.com/That-Half-Dead-Skeleton"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/That-Half-Dead-Skeleton/discord-connect/issues"
+  },
+  "homepage": "https://github.com/That-Half-Dead-Skeleton/discord-connect#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "mongoose": "^6.8.4"
+  }
+}
